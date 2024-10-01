@@ -22,7 +22,7 @@ System.out.println("Hola Mundo!");
 
 [Este es un enlace a otro fichero Markdown](./otrofichero.md)
 
-![Esta es una imagen](https://www.example.com/imagen.jpg)
+![Esta es una imagen](imagen.jpg)
 
 | Encabezado 1 | Encabezado 2 |
 | ------------ | ------------ |
